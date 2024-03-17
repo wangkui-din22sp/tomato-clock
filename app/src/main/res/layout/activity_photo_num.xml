@@ -9,7 +9,7 @@
 
     <EditText
         android:id="@+id/edt_num"
-        android:hint="电话号码"
+        android:hint="phone number"
         android:maxLength="11"
         android:inputType="number"
         android:layout_width="match_parent"
@@ -17,14 +17,14 @@
 
     <Button
         android:id="@+id/btn_query"
-        android:text="查询"
+        android:text="Inquiry"
         android:layout_marginTop="30dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
     <TextView
         android:id="@+id/tv_adress"
-        android:text="归属地"
+        android:text="Inquire about from which district in China this phone number is from"
         android:layout_marginTop="30dp"
         android:textSize="20sp"
         android:layout_width="match_parent"
