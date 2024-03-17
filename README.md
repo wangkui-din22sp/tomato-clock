@@ -3,6 +3,7 @@ China has thounds of cities. Both the mobile phones and fixed phones numbers con
 <p align="center">
   <img src="app/src/assets/github/app screen shot.png"/>
 </p>
+ <img src="app/src/assets/github/settings.png"/>
 
 ## API service
 Function getData uses internet API service to get the place of origin for the mobile phone number being inquired. The mobile phone number inquired about has to be an 11-digit number used in China, because the JSON data on http://apis.juhe.cn only contain info about Chinese phone number.
