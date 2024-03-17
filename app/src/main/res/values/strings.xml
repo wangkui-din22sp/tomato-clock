@@ -3,7 +3,7 @@
     <!-- menu -->
     <string name="nav_setting">Settings</string>
     <string name="nav_schedule">Record</string>
-    <string name="nav_info">Mobile phone number inquiry(for Chinese number)</string>
+    <string name="nav_info">Phone number inquiry</string>
     <string name="nav_exit">Quit</string>
     <!-- button -->
     <string name="btn_start">Start</string>
